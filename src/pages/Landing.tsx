@@ -1,6 +1,6 @@
 export default function Landing() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <div className="flex flex-col items-center justify-center h-screen bg-blue-500">
       <h1 className="text-4xl font-bold text-blue-600">Welcome to Safe‑Notely</h1>
       <p className="mt-4 text-gray-600">Your secure notes app.</p>
       <div className="mt-6 space-x-4">
